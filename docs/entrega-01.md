@@ -57,7 +57,7 @@ Antes de enviar:
 - [ ]  O repositório foi criado?
 - [ ]  Três problemas foram inicialmente considerados?
 - [ ]  Um problema foi escolhido e delimitado?
-- []  O público preliminar foi definido?
+- [ ]  O público preliminar foi definido?
 - [ ]  Existem evidências secundárias?
 - [ ]  Foram analisadas soluções atuais?
 - [ ]  As hipóteses foram explicitadas?
