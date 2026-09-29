@@ -1,3 +1,29 @@
+## Checklist da Entrega 1
+Antes de enviar:
+- [x] O grupo possui de 3 a 5 integrantes?
+- [x]  O repositório foi criado?
+- [x]  Três problemas foram inicialmente considerados?
+- [x]  Um problema foi escolhido e delimitado?
+- [x]  O público preliminar foi definido?
+- [ ]  Existem evidências secundárias?
+- [ ]  Foram analisadas soluções atuais?
+- [ ]  As hipóteses foram explicitadas?
+- [ ]  Existe plano de validação?
+- [ ]  
+
+### 1. Identificação do grupo: ok
+
+### 2. Três problemas inicialmente considerados
+- 1 Vagas em Republicas
+ - breve descrição;
+ - úblico relacionado;
+ - motivo pelo qual o problema parece relevante.
+- 2 Contas e tarefas de republica
+- 3 Controle de custos para Pequenos produtores
+- 4 Organização de caronas regionais
+
+
+ 
  documento da Entrega 1 deverá conter:
 1. Identificação do grupo:
 • nome completo dos integrantes;
@@ -51,14 +77,4 @@ Trabalho Prático
 • perguntas iniciais;
 • responsabilidades dos integrantes.
 
-## Checklist da Entrega 1
-Antes de enviar:
-- [x] O grupo possui de 3 a 5 integrantes?
-- [x]  O repositório foi criado?
-- [x]  Três problemas foram inicialmente considerados?
-- [x]  Um problema foi escolhido e delimitado?
-- [x]  O público preliminar foi definido?
-- [ ]  Existem evidências secundárias?
-- [ ]  Foram analisadas soluções atuais?
-- [ ]  As hipóteses foram explicitadas?
-- [ ]  Existe plano de validação?
+
