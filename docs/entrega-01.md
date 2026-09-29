@@ -19,17 +19,17 @@ Antes de enviar:
   - público relacionado: Estudantes universitários ingressantes ou em transição de moradia, e repúblicas tradicionais ou repúblicas estudantis estabelecidas que precisam repor vagas ociosas.
   - motivo pelo qual o problema parece relevante: A transição para a vida universitária fora de casa gera alta ansiedade e busca desorganizada por moradia em grupos de redes sociais e classificados fragmentados.
 - 2 Contas e tarefas de republica
-  - breve descrição:
-  - público relacionado:
-  - motivo pelo qual o problema parece relevante:
+  - breve descrição: Aplicativo de gestão financeira e operacional voltado para o cotidiano de moradias compartilhadas, facilitando a divisão de contas de consumo (água, luz, internet, compras de mercado), agendamento de tarefas domésticas e controle do fundo de caixa.
+  - público relacionado: Jovens adultos, universitários e trabalhadores que dividem moradia.
+  - motivo pelo qual o problema parece relevante: A informalidade na gestão financeira compartilhada é uma das principais fontes de conflito interpessoal em moradias coletivas. atrasos em contas comuns e o desequilíbrio na divisão de tarefas domésticas desgastam as relações e frequentemente.
 - 3 Controle de custos para Pequenos produtores
-  - breve descrição:
-  - público relacionado:
-  - motivo pelo qual o problema parece relevante:
+  - breve descrição: Sistema simplificado, acessível via aplicativo móvel ou web, voltado para o registro e controle de custos específicos da cafeicultura familiar, mapeando despesas por safra — como fertilizantes, defensivos, horas de maquinário, mão de obra de colheita, beneficiamento e armazenamento —, além de auxiliar na simulação de margens de lucro de acordo com a cotação do café.
+  - público relacionado: Pequenos cafeicultores, agricultores familiares produtores de café e gestores de pequenas propriedades cafeeiras.
+  - motivo pelo qual o problema parece relevante: A cafeicultura de pequeno porte sofre com a forte oscilação dos preços de insumos e do mercado internacional do café. Como muitos produtores realizam o controle financeiro de forma empírica ou em cadernos de anotações, há grande dificuldade em calcular o custo de produção por saca com precisão, o que impede uma estratégia assertiva de comercialização (como definir o melhor momento de venda) e compromete a rentabilidade da safra.
 - 4 Organização de caronas regionais.
-  - breve descrição:
-  - público relacionado:
-  - motivo pelo qual o problema parece relevante:
+  - breve descrição: Plataforma de conexões e caronas segmentada para o público universitário, facilitando o planejamento e a divisão de custos de viagens entre a cidade onde se localiza o campus universitário e as cidades de origem dos estudantes nos finais de semana, feriados e períodos de recesso.
+  - público relacionado: Estudantes universitários que moram fora, pais ou familiares que buscam opções seguras de transporte para os filhos, e motoristas (estudantes com veículo próprio ou motoristas parceiros da região) que realizam viagens de retorno para as cidades natais.
+  - motivo pelo qual o problema parece relevante: Os períodos de retorno para casa em fins de semana prolongados ou feriados geram alta demanda por transporte, resultando em lotação de rodoviárias, encarecimento de passagens de ônibus e horários inflexíveis. Para estudantes, o custo do transporte público frequente é um peso orçamentário significativo.
 
 
  
