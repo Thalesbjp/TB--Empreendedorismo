@@ -53,11 +53,11 @@ Trabalho Prático
 
 ## Checklist da Entrega 1
 Antes de enviar:
-- [ ] O grupo possui de 3 a 5 integrantes?
-- [ ]  O repositório foi criado?
-- [ ]  Três problemas foram inicialmente considerados?
-- [ ]  Um problema foi escolhido e delimitado?
-- [ ]  O público preliminar foi definido?
+- [x] O grupo possui de 3 a 5 integrantes?
+- [x]  O repositório foi criado?
+- [x]  Três problemas foram inicialmente considerados?
+- [x]  Um problema foi escolhido e delimitado?
+- [x]  O público preliminar foi definido?
 - [ ]  Existem evidências secundárias?
 - [ ]  Foram analisadas soluções atuais?
 - [ ]  As hipóteses foram explicitadas?
