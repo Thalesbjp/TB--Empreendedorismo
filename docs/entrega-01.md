@@ -9,7 +9,6 @@ Antes de enviar:
 - [ ]  Foram analisadas soluções atuais?
 - [ ]  As hipóteses foram explicitadas?
 - [ ]  Existe plano de validação?
-- [ ]  
 
 ## 1. Identificação do grupo: ok
 
@@ -60,6 +59,15 @@ As implicações desse cenário desdobram-se em múltiplos âmbitos:
 - Condutores: Proprietários de veículos que buscam mitigar os elevados custos de manutenção e combustível, mas encontram barreiras de confiança ao ofertar vagas de forma seletiva.
 - Empresas concessionárias de transporte rodoviário: Organizações que, embora capturem a demanda reprimida, enfrentam críticas recorrentes quanto à rigidez de horários, lotação e precificação do serviço.
 
+## 4. Público-alvo preliminar
+
+## 5. Evidências secundárias
+
+## 6. Soluções atuais
+
+## 7. Hipóteses iniciais
+
+## 8. Plano para a Entrega 2
   
 -----------------------------------------------------------------------------
  
@@ -84,7 +92,6 @@ As implicações desse cenário desdobram-se em múltiplos âmbitos:
 • contexto de utilização;
 • quem é usuário;
 • quem poderia ser cliente ou pagador.
-9 de 27
 Empreendedorismo em Sistemas de Informação
 Trabalho Prático
 5. Evidências secundárias
