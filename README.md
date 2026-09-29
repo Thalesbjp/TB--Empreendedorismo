@@ -1,4 +1,4 @@
-# TB--Empreendedorismo
+# Trabalho da disciplina de Empreendedorismo - Ufla - 2026/2
 
 ## Aqui jas um repositório para postar sobre trabalho de empreendedorismo
 
