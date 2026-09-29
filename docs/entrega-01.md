@@ -15,9 +15,9 @@ Antes de enviar:
 
 ### 2. Três problemas inicialmente considerados
 - 1 Vagas em Republicas
-  - - breve descrição;
- - úblico relacionado;
- - motivo pelo qual o problema parece relevante.
+  - breve descrição;
+  - úblico relacionado;
+  - motivo pelo qual o problema parece relevante.
 - 2 Contas e tarefas de republica
 - 3 Controle de custos para Pequenos produtores
 - 4 Organização de caronas regionais
