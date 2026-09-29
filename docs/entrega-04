@@ -1,0 +1,74 @@
+Entrega 4 – MVP funcional e validação da solução
+Data limite: 10/11/2026.
+17.1. Objetivo da etapa
+O grupo deverá apresentar uma versão demonstrável do software capaz de executar o fluxo
+principal definido na Entrega 3. A pergunta central será:
+Quando usuários representativos utilizam o MVP, eles conseguem perceber o
+valor que imaginamos?
+17.2. Requisito funcional mínimo
+O MVP deverá permitir executar pelo menos um fluxo central de ponta a ponta.
+Exemplo:
+Usuário entra → executa ação principal → software processa → usuário recebe
+o valor/resultando esperado
+Não é necessário implementar todas as funcionalidades de uma futura versão comercial.
+17.3. O MVP poderá estar
+• hospedado online;
+• executável localmente;
+• disponível por aplicativo;
+• disponível por protótipo funcional integrado a serviços externos;
+• desenvolvido com low-code/no-code;
+• desenvolvido com apoio de IA.
+17.4. O que deverá funcionar
+O grupo deverá demonstrar:
+1. acesso ao sistema;
+2. fluxo principal;
+16 de 27
+Empreendedorismo em Sistemas de Informação Trabalho Prático
+3. entrada de informações necessária;
+4. processamento central;
+5. resultado principal;
+6. tratamento mínimo de situações inválidas relevantes.
+17.5. Não é obrigatório
+Não será obrigatório:
+• sistema completo;
+• arquitetura de produção;
+• alta escalabilidade;
+• design perfeito;
+• todas as telas;
+• implementação de funcionalidades secundárias;
+• publicação em lojas de aplicativos.
+17.6. Validação do MVP
+O grupo deverá testar o MVP com pelo menos 5 representantes do público-alvo, sempre
+que viável. Cada teste deverá incluir:
+• objetivo;
+• tarefa solicitada;
+• observação da utilização;
+• dificuldade encontrada;
+• comentário do participante;
+• percepção de valor;
+• sugestão;
+• decisão do grupo.
+17.7. Métricas possíveis
+Dependendo do projeto, poderão ser utilizadas:
+• taxa de conclusão da tarefa;
+• tempo para completar o fluxo;
+• quantidade de erros;
+• quantidade de solicitações de ajuda;
+• intenção de reutilização;
+• satisfação;
+• percepção de utilidade;
+• compreensão da proposta;
+• conversão em uma ação desejada.
+17 de 27
+Empreendedorismo em Sistemas de Informação Trabalho Prático
+17.8. Artefatos obrigatórios
+1. link do repositório;
+2. código ou artefato do MVP;
+3. instruções de execução;
+4. link do sistema, quando hospedado;
+5. descrição do fluxo principal;
+6. capturas de tela;
+7. evidências dos testes;
+8. resultados;
+9. problemas identificados;
+10. modificações realizadas ou planejadas.
