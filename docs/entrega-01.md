@@ -10,7 +10,14 @@ Antes de enviar:
 - [ ]  As hipóteses foram explicitadas?
 - [ ]  Existe plano de validação?
 
-## 1. Identificação do grupo: ok
+## 1. Identificação do grupo
+
+- Nome do projeto: De volta a minha terra
+- Integrantes
+  * Carlos Eduardo de Oliveira Santos
+  * Gabriel Luiz Moreira Cantanhede
+  * Matheus Vitor Ferreira
+  * Thales Maia Mendonça Negrão
 
 ## 2. Três problemas inicialmente considerados
 - 1 Vagas em Republicas
