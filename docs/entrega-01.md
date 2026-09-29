@@ -15,12 +15,21 @@ Antes de enviar:
 
 ### 2. Três problemas inicialmente considerados
 - 1 Vagas em Republicas
-  - breve descrição;
-  - úblico relacionado;
-  - motivo pelo qual o problema parece relevante.
+  - breve descrição: Plataforma digital centralizada para divulgação e busca de vagas em repúblicas estudantis, permitindo que veteranos/moradores encontrem novos colegas com perfiles compatíveis e que calouros encontrem moradia acessível e segura de forma ágil.
+  - público relacionado: Estudantes universitários ingressantes ou em transição de moradia, e repúblicas tradicionais ou repúblicas estudantis estabelecidas que precisam repor vagas ociosas.
+  - motivo pelo qual o problema parece relevante: A transição para a vida universitária fora de casa gera alta ansiedade e busca desorganizada por moradia em grupos de redes sociais e classificados fragmentados.
 - 2 Contas e tarefas de republica
+  - breve descrição:
+  - público relacionado:
+  - motivo pelo qual o problema parece relevante:
 - 3 Controle de custos para Pequenos produtores
-- 4 Organização de caronas regionais
+  - breve descrição:
+  - público relacionado:
+  - motivo pelo qual o problema parece relevante:
+- 4 Organização de caronas regionais.
+  - breve descrição:
+  - público relacionado:
+  - motivo pelo qual o problema parece relevante:
 
 
  
