@@ -10,10 +10,10 @@
   * Matheus Vitor Ferreira
   * Thales Maia Mendonça Negrão
 - problema:
-- público-alvo;
-- proposta de valor;
-- descrição do MVP;
-- tecnologias utilizadas;
-- instruções para executar ou acessar o software;
-- link da aplicação, quando houver;
-- situação atual do projeto
+- público-alvo:
+- proposta de valor:
+- descrição do MVP:
+- tecnologias utilizadas:
+- instruções para executar ou acessar o software:
+- link da aplicação, quando houver:
+- situação atual do projeto: **Em desenvolvimento**
