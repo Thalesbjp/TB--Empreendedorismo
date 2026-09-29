@@ -1,6 +1,6 @@
 # Trabalho da disciplina de Empreendedorismo - Ufla - 2026/2
 
-## Aqui jas um repositório sobre a matéria de empreendedorismo da Universidade Federal de Lavras
+## Repositório sobre a matéria de empreendedorismo da Universidade Federal de Lavras
 
 ### Requisitos:
 - Nome do projeto: De volta a minha terra
