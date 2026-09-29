@@ -1,5 +1,5 @@
  documento da Entrega 1 deverá conter:
-1. Identificação do grupo
+1. Identificação do grupo:
 • nome completo dos integrantes;
 • nome provisório da equipe ou do empreendimento;
 • link do repositório.
