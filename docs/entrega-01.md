@@ -43,6 +43,19 @@ Trabalho Prático
 • hipótese de cliente;
 • hipótese de necessidade;
 • hipótese preliminar de valor.
+
+Checklist da Entrega 1
+Antes de enviar:
+□ O grupo possui de 3 a 5 integrantes?
+□ O repositório foi criado?
+□ Três problemas foram inicialmente considerados?
+□ Um problema foi escolhido e delimitado?
+□ O público preliminar foi definido?
+□ Existem evidências secundárias?
+□ Foram analisadas soluções atuais?
+□ As hipóteses foram explicitadas?
+□ Existe plano de validação?
+
 8. Plano para a Entrega 2
 • quem será entrevistado;
 • como essas pessoas serão encontradas;
