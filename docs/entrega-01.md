@@ -15,7 +15,7 @@ Antes de enviar:
 
 ### 2. Três problemas inicialmente considerados
 - 1 Vagas em Republicas
--   breve descrição;
+- - breve descrição;
  - úblico relacionado;
  - motivo pelo qual o problema parece relevante.
 - 2 Contas e tarefas de republica
