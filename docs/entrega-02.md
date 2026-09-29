@@ -12,7 +12,9 @@
 
 
 Entrega 2 – Validação do problema, clientes e mercado
+
 Data limite: 13/10/2026.
+
 15.1. Objetivo da etapa
 A Entrega 2 deverá reduzir as principais incertezas relacionadas ao problema e ao públicoalvo. A pergunta central será:
 As pessoas que imaginamos realmente possuem esse problema e o consideram
